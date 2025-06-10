@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\CarritoCompras.exe
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\CarritoCompras.deps.json
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\CarritoCompras.runtimeconfig.json
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\CarritoCompras.runtimeconfig.dev.json
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\CarritoCompras.dll
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\ref\CarritoCompras.dll
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\bin\Debug\net5.0\CarritoCompras.pdb
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.AssemblyInfo.cs
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.dll
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\ref\CarritoCompras.dll
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.pdb
+C:\Users\Punto Digital\Desktop\TP-CarritoCompra\CarritoCompras\obj\Debug\net5.0\CarritoCompras.genruntimeconfig.cache

@@ -8,5 +8,18 @@ namespace CarritoCompras
 {
     class Categoria
     {
+        public string Nombre { get; private set; }
+        public string Descripcion { get; private set; }
+
+        public Categoria(string nombre, string descripcion)
+        {
+            Nombre = nombre;
+            Descripcion = descripcion;
+        }
+
+        public override string ToString()
+        {
+            return $"{Nombre} - {Descripcion}";
+        }
     }
 }

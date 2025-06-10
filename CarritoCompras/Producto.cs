@@ -8,7 +8,7 @@ namespace CarritoCompras
 {
     class Producto
     {
-        private static int contadorCodigo = 1; // Para generar código único secuencial
+        private static int contadorCodigo = 1;
 
         public int Codigo { get; private set; }
         public string Nombre { get; private set; }

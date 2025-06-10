@@ -21,7 +21,7 @@ namespace CarritoCompras
 
             if (itemExistente != null)
             {
-                // Validar si se puede agregar esa cantidad sin superar stock
+                // Chequea si se puede agregar esa cantidad sin superar stock
                 int cantidadTotal = itemExistente.Cantidad + cantidad;
                 if (!producto.HayStock(cantidadTotal))
                     return false;
